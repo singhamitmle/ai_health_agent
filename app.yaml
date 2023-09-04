@@ -1,0 +1,4 @@
+runtime: python310
+handlers:
+- url: /.*
+  script: main.app
